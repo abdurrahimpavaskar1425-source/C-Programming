@@ -1,3 +1,9 @@
+ * /
+ * Name: Abdur Rahim Pavaskar
+ * UIN: 251M043
+ * Class:FE/Mechanical
+ * Div:F
+ * /
 
 #include <stdio.h>
 
